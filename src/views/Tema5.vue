@@ -4,19 +4,26 @@
     .container.tarjeta.tarjeta--blanca.p-4.p-md-5.mb-5
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
-          span 2
-        h1 Sistema de producción bovino
+          span 5
+        h1 Seguridad y salud en el trabajo
       Separador
-      //- Inicio Tema2.1
+      //- Inicio Tema5.1
       .row
-        #t_2_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 2.1 Actividades de alimentación 
+        #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 5.1 Prevención de riesgos laborales
 
+      Separador
+      //- Inicio Tema5.2
+      .row
+        #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 5.2 Manejo seguro de equipos e instalaciones
+
+  
 </template>
 
 <script>
 export default {
-  name: 'Tema2',
+  name: 'Tema5',
   data: () => ({
     // variables de vue
   }),

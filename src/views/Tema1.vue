@@ -5,7 +5,25 @@
       .titulo-principal.color-acento-contenido
         .titulo-principal__numero
           span 1
-        h1 Titulo de primer nivel
+        h1 Especie animal
+      Separador
+      //- Inicio Tema1.1
+      .row
+        #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 1.1 Características generales
+
+      Separador
+      //- Inicio Tema2.2
+      .row
+        #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 1.2 Clasificación de los bovinos
+
+      Separador
+      //- Inicio Tema1.3
+      .row
+        #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+          h2 1.3 Etapas productivas bovinas
+
 
 </template>
 
