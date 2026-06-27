@@ -77,7 +77,7 @@
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Clasificación según la edad y etapa de desarrollo
       //- Título nivel 3 - Imagen
       p(data-aos="fade-left") La clasificación por edad permite establecer programas adecuados de alimentación, manejo sanitario, reproducción y producción, de acuerdo con las necesidades fisiológicas de cada etapa del desarrollo.      
-      //- Slid eshow
+      //- Slideshow
       .bg-full-width.bg-fondo-slider.mb-3
         .p-4.p-md-5
           SlyderA(tipo="b").bg-white.p-4.tarjeta(data-aos="fade-left")
@@ -587,12 +587,6 @@
                     .fas.fa-check-circle.me-3
                     span <b>Condiciones adecuadas de alojamiento:</b> proporcionan confort, seguridad y protección durante la gestación y la actividad reproductiva.                  
       p(data-aos="fade-left") El reconocimiento de las diferentes etapas productivas bovinas permite establecer estrategias de manejo acordes con los requerimientos fisiológicos de cada fase, promoviendo sistemas de producción más eficientes, sostenibles y orientados al bienestar animal.
-
-      
-
-                    
-
-
 </template>
 <script>
 export default {
