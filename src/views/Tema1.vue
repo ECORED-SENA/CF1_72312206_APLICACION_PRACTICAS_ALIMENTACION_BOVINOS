@@ -47,7 +47,7 @@
       //- Inicio Tarjetas
       .row.justify-content-center.mt-5(data-aos="fade-left")
         .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
-          .tarjeta.rounded-3.h-100.bg-color-5.border.overflow-hidden.shadow
+          .tarjeta.rounded-5.h-100.bg-color-5.border.overflow-hidden.shadow
             figure.mb-0
               img(src='@/assets/curso/temas/t1/tarjeta01_1.png', alt='').w-100
             .p-4.d-flex.flex-column.justify-content-between.h-100
@@ -55,7 +55,7 @@
                 h4.card-title.text-center.mb-4 Bovinos lecheros
                 p.mb-0 Están especializados en la producción de leche y requieren dietas altamente balanceadas, con elevados niveles de energía, proteína, minerales y agua. Razas como Holstein, Jersey y Pardo Suizo presentan alta producción láctea y demandan estrictos programas de manejo sanitario, ordeño higiénico y prevención de mastitis.
         .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
-          .tarjeta.rounded-3.h-100.bg-color-5.border.overflow-hidden.shadow
+          .tarjeta.rounded-5.h-100.bg-color-5.border.overflow-hidden.shadow
             figure.mb-0
               img(src='@/assets/curso/temas/t1/tarjeta01_2.png', alt='').w-100
             .p-4.d-flex.flex-column.justify-content-between.h-100
@@ -63,7 +63,7 @@
                 h4.card-title.text-center.mb-4 Bovinos de carne
                 p.mb-0 Se destinan principalmente a la producción cárnica. Se caracterizan por presentar mayor desarrollo muscular, eficiente conversión alimenticia y rápida ganancia de peso. Entre las razas más utilizadas se encuentran Angus, Hereford y Brahman.
         .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
-          .tarjeta.rounded-3.h-100.bg-color-5.border.overflow-hidden.shadow
+          .tarjeta.rounded-5.h-100.bg-color-5.border.overflow-hidden.shadow
             figure.mb-0
               img(src='@/assets/curso/temas/t1/tarjeta01_3.png', alt='').w-100
             .p-4.d-flex.flex-column.justify-content-between.h-100
@@ -236,11 +236,9 @@
         .col-12.col-sm-9.col-lg-5.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center
             img(src='@/assets/curso/temas/t1/img3.png' style="width: 500px").m-auto
-        .col-12.col-lg-7.order-2.order-lg-1.p-4(data-aos="fade-right")
-          .bg-full-width.mt-4
-            .px-4.px-md-5.pb-md-3
-              .titulo-con-imagen(data-aos="fade-right")                     
-                h3.titulo-nivel3 Cruces raciales
+        .col-12.col-lg-7.order-2.order-lg-1.p-4(data-aos="fade-right")          
+          .titulo-con-imagen.mb-4(data-aos="fade-right")                     
+            h3.titulo-nivel4 Cruces raciales
           p Los cruces raciales resultan de la combinación genética entre bovinos <i>Bos taurus</i> y <i>Bos indicus</i>, con el propósito de integrar las características productivas de ambas líneas raciales. Esta estrategia busca obtener animales con mayor eficiencia productiva, mejor adaptación a diferentes condiciones ambientales, mayor resistencia a enfermedades y un mejor aprovechamiento de los recursos alimenticios disponibles.
           p.p-4.bg-color-4 Los bovinos cruzados suelen presentar ventajas conocidas como vigor híbrido, reflejadas en una mayor capacidad de crecimiento, fertilidad, longevidad productiva y adaptación a sistemas de producción tropicales. Gracias a estas características, los cruces raciales son ampliamente utilizados en explotaciones de carne, leche y doble propósito. 
       .row.justify-content-center.mb-5(data-aos="fade-right")
@@ -376,10 +374,8 @@
         .col-lg-2.bg-color-7.d-flex.align-items-center.justify-content-center.p-4
           figure
             img(src="@/assets/curso/temas/t1/img6.svg", data-aos="zoom-in", style="width: 100px").mx-auto
-      .bg-full-width.mt-4
-        .px-4.px-md-5.pb-md-3
-          .titulo-con-imagen(data-aos="fade-right")                     
-            h3.titulo-nivel3 Buenas Prácticas Pecuarias en terneros neonatos
+      .titulo-con-imagen.mb-4(data-aos="fade-right")
+        h3.titulo-nivel4 Buenas Prácticas Pecuarias en terneros neonatos
       p(data-aos="fade-left") Las Buenas Prácticas Pecuarias orientadas a los terneros neonatos buscan disminuir el riesgo de enfermedades y mortalidad durante los primeros días de vida, favoreciendo un adecuado desarrollo.
       //- Slid eshow
       .bg-full-width.bg-fondo-slider.mb-3
@@ -433,11 +429,9 @@
         .col-lg-2.bg-color-7.d-flex.align-items-center.justify-content-center.p-4
           figure
             img(src="@/assets/curso/temas/t1/img7.svg", data-aos="zoom-in", style="width: 100px").mx-auto
-      //- Título nivel 4
-      .bg-full-width.mt-4
-        .px-4.px-md-5.pb-md-3
-          .titulo-con-imagen(data-aos="fade-right")
-            h3.titulo-nivel3 Factores que se deben evitar durante la etapa de levante
+      //- Título nivel 4      
+      .titulo-con-imagen.mb-4(data-aos="fade-right")
+        h3.titulo-nivel4 Factores que se deben evitar durante la etapa de levante
       //- Título nivel 4
       p(data-aos="fade-left") El cumplimiento de las Buenas Prácticas Pecuarias durante esta etapa contribuye al adecuado crecimiento y al bienestar animal:      
       .row.bg-fondo-2(data-aos="fade-right")
@@ -502,11 +496,9 @@
         .col-lg-2.bg-color-7.d-flex.align-items-center.justify-content-center.p-4
           figure
             img(src="@/assets/curso/temas/t1/img10.svg", data-aos="zoom-in", style="width: 100px").mx-auto
-      //- Título nivel 4
-      .bg-full-width.mt-4
-        .px-4.px-md-5.pb-md-3
-          .titulo-con-imagen(data-aos="fade-right")
-            h3.titulo-nivel3 Buenas Prácticas Pecuarias durante el ordeño
+      //- Título nivel 4  
+      .titulo-con-imagen.mb-4(data-aos="fade-right")
+        h3.titulo-nivel4 Buenas Prácticas Pecuarias durante el ordeño
       //- Título nivel 4
       p(data-aos="fade-left") Estas prácticas contribuyen a garantizar la calidad higiénica de la leche, prevenir enfermedades y mantener el bienestar animal:
       //- Slid eshow
