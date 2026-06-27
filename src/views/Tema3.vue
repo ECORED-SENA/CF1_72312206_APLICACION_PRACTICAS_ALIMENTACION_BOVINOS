@@ -112,7 +112,7 @@
                         td Bioseguridad
                         td Control sanitario, cuarentenas y prevención de enfermedades.
                         td Evitar el ingreso y la propagación de agentes patógenos dentro de la explotación.
-            p.mt-5 La interacción adecuada de estos elementos permite disponer de instalaciones funcionales, seguras y adaptadas a las necesidades fisiológicas y productivas de los bovinos. De esta manera, las instalaciones dejan de ser únicamente estructuras físicas y se convierten en herramientas estratégicas para promover la productividad, el bienestar animal, la salud del hato y la sostenibilidad de los sistemas de producción bovina.
+            p.mt-5(data-aos="fade-left") La interacción adecuada de estos elementos permite disponer de instalaciones funcionales, seguras y adaptadas a las necesidades fisiológicas y productivas de los bovinos. De esta manera, las instalaciones dejan de ser únicamente estructuras físicas y se convierten en herramientas estratégicas para promover la productividad, el bienestar animal, la salud del hato y la sostenibilidad de los sistemas de producción bovina.
             Separador
             //- Inicio Tema3.2
             .row
@@ -244,7 +244,7 @@
                 p.mb-0 Facilitar la movilización de animales. Deben mantenerse en condiciones seguras para favorecer desplazamientos organizados.                                                                
           //- Fin Tarjetas
       p(data-aos="fade-left") El adecuado mantenimiento del área de alimentación y de los implementos utilizados favorece la eficiencia de las labores diarias y contribuye al funcionamiento organizado del sistema de producción bovino.
-      .row.justify-content-center.mb-4
+      .row.justify-content-center.mb-4(data-aos="fade-left")
         .col-lg-12
           .d-flex.flex-column.flex-lg-row.align-items-center.bg-color-6.p-4.rounded-4           
             .flex-shrink-0.mb-3.mb-lg-0.pe-lg-4
