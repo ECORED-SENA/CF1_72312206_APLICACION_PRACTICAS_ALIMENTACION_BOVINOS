@@ -168,35 +168,35 @@
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
-                              img(src='@/assets/curso/temas/t4/tarjeta01_1.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
+                              img(src='@/assets/curso/temas/t4/tarjeta00_1.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Moscas
                             p.text-start.text-center Transmisión mecánica de agentes infecciosos y contaminación de alimentos.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
-                              img(src='@/assets/curso/temas/t4/tarjeta01_2.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
+                              img(src='@/assets/curso/temas/t4/tarjeta00_2.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Garrapatas
                             p.text-start.text-center Diseminación de enfermedades parasitarias.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
-                              img(src='@/assets/curso/temas/t4/tarjeta01_3.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
+                              img(src='@/assets/curso/temas/t4/tarjeta00_3.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Roedores
                             p.text-start.text-center Contaminación de alimentos e instalaciones y transmisión de patógenos.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
-                              img(src='@/assets/curso/temas/t4/tarjeta01_4.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
+                              img(src='@/assets/curso/temas/t4/tarjeta00_4.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Escarabajos
                             p.text-start.text-center Deterioro de las condiciones higiénicas.
                         .bg-white.tarjeta.h-100.shadow-app.bordes.overflow-hidden.p-4.text-center
                           .row.justify-content-center.mb-3.mt-3
                             .col-auto
-                              img(src='@/assets/curso/temas/t4/tarjeta01_5.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
+                              img(src='@/assets/curso/temas/t4/tarjeta00_5.svg' alt='' style="width: 90px; height: 90px; object-fit: contain;").mx-auto
                           .p-2
                             h4.card-title.text-center.mb-3.fw-bold Mosquitos
                             p.text-start.text-center Participación en la transmisión de algunas enfermedades.
