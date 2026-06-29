@@ -262,12 +262,12 @@
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
                       .tarjeta-icono__img-wrapper
-                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_3.svg" alt="")
+                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_1.svg" alt="")
                       p.mb-0 Realizar inspecciones periódicas de corrales, mangas, bretes y cercas.
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
                       .tarjeta-icono__img-wrapper
-                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_3.svg" alt="")
+                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_2.svg" alt="")
                       p.mb-0 Limpiar los equipos cuando sea necesario.
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
@@ -277,17 +277,17 @@
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
                       .tarjeta-icono__img-wrapper
-                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_3.svg" alt="")
+                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_4.svg" alt="")
                       p.mb-0 Mantener herramientas organizadas en lugares seguros.
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
                       .tarjeta-icono__img-wrapper
-                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_3.svg" alt="")
+                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_5.svg" alt="")
                       p.mb-0 Capacitar al personal sobre el uso correcto de los equipos.
                   .col-12.col-sm-6.col-md-4.tarjeta-icono-col
                     .tarjeta-icono.text-center
                       .tarjeta-icono__img-wrapper
-                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_3.svg" alt="")
+                        img.tarjeta-icono__img(src="@/assets/curso/temas/t5/tarjeta02_6.svg" alt="")
                       p.mb-0 Utilizar elementos de protección personal durante las labores de mantenimiento.
               .col-12.col-sm-8.col-md-6.col-lg-3
                 .banner-mantenimiento.h-100.position-relative.rounded-3.overflow-hidden
