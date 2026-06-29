@@ -410,3 +410,98 @@
       color: #051d38
       font-size: 0.95rem
       line-height: 1.4
+
+
+
+    
+.gy-tarjetas
+  --bs-gutter-y: 2.5rem
+
+.tarjeta-icono-col
+  padding-top: 45px
+  display: flex
+
+.tarjeta-icono
+  background-color: #E3EFD7 !important
+  border-radius: 6px
+  display: flex
+  flex-direction: column
+  align-items: center
+  justify-content: flex-start
+  position: relative
+  width: 100%
+  flex: 1 1 auto
+  
+  padding: 60px 1.5rem 1.5rem !important
+
+  &__img-wrapper
+    width: 90px
+    height: 90px
+    border-radius: 50% !important
+    display: flex
+    align-items: center
+    justify-content: center
+    position: absolute
+    top: -45px
+    left: 50%
+    transform: translateX(-50%)
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08)
+
+  &__img
+    width: 70px
+    max-width: 100%
+
+  p
+    color: #000 !important
+    font-size: 0.95rem
+    line-height: 1.4
+    font-weight: 500
+    margin-top: 0
+
+.banner-mantenimiento
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05)
+
+  @media screen and (min-width: 992px)
+    margin-top: 45px
+    height: calc(100% - 45px) !important
+
+  &::before
+    content: ''
+    position: absolute
+    top: 0
+    left: 0
+    width: 100%
+    height: 100%
+    
+    pointer-events: none
+    box-sizing: border-box
+    border-radius: 8px
+    z-index: 2
+
+
+@media screen and (max-width: 575.98px)
+  .gy-tarjetas
+    --bs-gutter-y: 2rem
+
+  .tarjeta-icono-col
+    padding-top: 40px
+    max-width: 420px
+    margin-inline: auto
+
+  .tarjeta-icono
+    min-height: auto
+    padding: 55px 1.25rem 1.5rem !important
+
+    &__img-wrapper
+      width: 80px
+      height: 80px
+      top: -40px
+
+    &__img
+      width: 62px
+
+    p
+      font-size: 0.92rem
+
+  .banner-mantenimiento
+    min-height: 260px
