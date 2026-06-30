@@ -268,13 +268,129 @@ export default {
   },
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Definición',
+      termino: 'Abomaso',
+      significado:
+        'Cuarta cavidad del estómago bovino donde ocurre digestión química.',
+    },
+    {
+      termino: 'Alimentación bovina',
+      significado:
+        'Suministro de nutrientes necesarios para crecimiento, producción y bienestar animal.',
+    },
+    {
+      termino: 'Bebedero',
+      significado:
+        'Estructura destinada al suministro permanente de agua para los animales.',
+    },
+    {
+      termino: 'Bienestar animal',
+      significado:
+        'Condiciones físicas y mentales adecuadas para evitar estrés y sufrimiento animal.',
+    },
+    {
+      termino: 'Bioseguridad',
+      significado:
+        'Medidas preventivas para evitar ingreso y propagación de enfermedades.',
+    },
+    {
+      termino: 'Bovino',
+      significado:
+        'Animal rumiante doméstico utilizado para producción de carne y leche.',
+    },
+    {
+      termino: 'Comedero',
+      significado:
+        'Espacio o recipiente utilizado para suministrar alimento a los bovinos.',
+    },
+    {
+      termino: 'Concentrado',
+      significado:
+        'Alimento balanceado con alto contenido energético y proteico.',
+    },
+    {
+      termino: 'Corral',
+      significado:
+        'Área destinada al manejo, alojamiento y movilización de bovinos.',
+    },
+    {
+      termino: 'Desinfección',
+      significado:
+        'Proceso de eliminación de microorganismos presentes en superficies y equipos.',
+    },
+    {
+      termino: 'Ensilaje',
+      significado:
+        'Método de conservación de forrajes mediante fermentación anaerobia.',
+    },
+    {
+      termino: 'Forraje',
+      significado: 'Material vegetal utilizado como alimento para bovinos.',
+    },
+    {
+      termino: 'Ganadería',
+      significado:
+        'Actividad económica dedicada a la crianza y producción animal.',
+    },
+    {
+      termino: 'Higiene pecuaria',
+      significado:
+        'Prácticas de limpieza y saneamiento aplicadas en producción bovina.',
+    },
+    {
+      termino: 'Inocuidad alimentaria',
+      significado:
+        'Garantía de que los alimentos no causarán daño al consumidor.',
+    },
+    {
+      termino: 'Manga',
+      significado:
+        'Estructura utilizada para conducción y manejo seguro de bovinos.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Food and Agriculture Organization of the United Nations (FAO). (2021). Buenas prácticas ganaderas para la producción bovina de carne y leche.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 067449 de 2020. Por medio de la cual se establecen los requisitos para obtener la certificación en Buenas Prácticas Ganaderas BPG en la producción de leche.',
+      link: 'https://www.ica.gov.co/getattachment/6b7f82ab-bccd-4bf5-a5c6-5bfff35b772b/2020R67449.aspx',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2020). Resolución 068167 de 2020. Requisitos sanitarios y de inocuidad para explotaciones bovinas y bufalinas.',
+      link: '',
+    },
+    {
+      referencia:
+        'Instituto Colombiano Agropecuario (ICA). (2023). Manual de Buenas Prácticas Ganaderas para bovinos.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Agricultura y Desarrollo Rural. (2022). Política nacional de sanidad e inocuidad agropecuaria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Ambiente y Desarrollo Sostenible. (2021). Lineamientos para la gestión ambiental en sistemas de producción pecuaria.',
+      link: '',
+    },
+    {
+      referencia:
+        'Ministerio de Salud y Protección Social. (2013). Lineamientos para el uso prudente de antimicrobianos en producción animal.',
+      link: '',
+    },
+    {
+      referencia:
+        'Organización Mundial de Sanidad Animal (OMSA). (2023). Código sanitario para los animales terrestres.',
+      link: '',
+    },
+    {
+      referencia:
+        'República de Colombia. (2007). Decreto 1500 de 2007. Sistema oficial de inspección, vigilancia y control de la carne y productos cárnicos comestibles.',
       link: '',
     },
   ],
@@ -284,7 +400,8 @@ export default {
       autores: [
         {
           nombre: 'Claudia Johanna Gómez Pérez',
-          cargo: 'Líder del Ecosistema',
+          cargo:
+            'Profesional 06  <br> Responsable Ecosistema Virtual de Recursos Educativos Digitales  ',
           centro: 'Centro Agroturístico - Regional Santander',
         },
         {
@@ -298,9 +415,16 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'Eliana Audrey Manchola Pérez ',
+          cargo: 'Experto temático ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila ',
+        },
+        {
+          nombre: 'Paola Alexandra Moya ',
+          cargo: 'Evaluadora instruccional ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila ',
         },
       ],
     },
@@ -308,20 +432,50 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: '',
+          nombre: 'Carlos Julian Ramirez Benitez',
           cargo: 'Diseñador de contenidos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Henry Alvarez Astudillo',
           cargo: 'Desarrollador <i>full stack</i>',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
-          cargo: '',
+          nombre: 'Alejandro Delgado Acosta ',
+          cargo: 'Intérprete lenguaje de señas  ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Cristhian Giovanni Gordillo Segura ',
+          cargo: 'Intérprete Lenguaje de señas ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Juan Pablo Rojas Polania ',
+          cargo: 'Animador y productor audiovisual ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Carlos Eduardo Garavito Parada ',
+          cargo: 'Animador y productor audiovisual ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Maria Carolina Tamayo Lopez ',
+          cargo: 'Locución ',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'German Acosta Ramos ',
+          cargo: 'Locución ',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
@@ -331,13 +485,25 @@ export default {
       titulo: 'VALIDACIÓN RECURSO EDUCATIVO DIGITAL',
       autores: [
         {
-          nombre: '',
+          nombre: 'Ricardo Oliveros Zambrano ',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },
         {
-          nombre: '',
+          nombre: 'Aixa Natalia Sendoya Fernández ',
+          cargo: 'Validador de recursos educativos digitales',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Daniel Ricardo Mutis Gómez ',
+          cargo: 'Evaluador para contenidos inclusivos y accesibles',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Anyerson Wilfredo Pizo Ossa ',
           cargo: 'Evaluador para contenidos inclusivos y accesibles',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
