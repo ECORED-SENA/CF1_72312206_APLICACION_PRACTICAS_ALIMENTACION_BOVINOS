@@ -8,13 +8,13 @@
         h1 Especie animal
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .row.mb-5.justify-content-center.align-items-center
-                .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
-                  figure.mb-0.text-center
-                    img(src='@/assets/curso/temas/t1/img1.png' style="width: 500px").m-auto
-                .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
-                  p La especie bovina corresponde al conjunto de animales rumiantes domésticos pertenecientes al género Bos, utilizados principalmente para la producción de leche, carne, reproducción y trabajo dentro de los sistemas pecuarios. Los bovinos constituyen una de las especies de mayor importancia económica y alimentaria debido a su capacidad de transformar alimentos fibrosos, como pastos y forrajes, en proteína de alto valor biológico destinada al consumo humano.
+              .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+                figure.mb-0.text-center
+                  img(src='@/assets/curso/temas/t1/img1.png' style="width: 500px").m-auto
+              .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
+                p La especie bovina corresponde al conjunto de animales rumiantes domésticos pertenecientes al género Bos, utilizados principalmente para la producción de leche, carne, reproducción y trabajo dentro de los sistemas pecuarios. Los bovinos constituyen una de las especies de mayor importancia económica y alimentaria debido a su capacidad de transformar alimentos fibrosos, como pastos y forrajes, en proteína de alto valor biológico destinada al consumo humano.
             .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-3(data-aos="fade-left")
               .bloque-texto-g__img(
                 :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t1/img2.png')})` }")
@@ -32,12 +32,12 @@
                 figure
                   .video
                     iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      Separador
-      //- Inicio Tema2.2
-      .row
-        #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 1.2 Clasificación de los bovinos
-      p(data-aos="fade-left") Los bovinos pueden clasificarse de acuerdo con diferentes criterios técnicos, productivos y zootécnicos. Esta clasificación facilita el establecimiento de programas adecuados de alimentación, manejo sanitario, reproducción y producción, ajustados a las características y necesidades de cada animal.
+            Separador
+            //- Inicio Tema2.2
+            .row
+              #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 1.2 Clasificación de los bovinos
+            p(data-aos="fade-left") Los bovinos pueden clasificarse de acuerdo con diferentes criterios técnicos, productivos y zootécnicos. Esta clasificación facilita el establecimiento de programas adecuados de alimentación, manejo sanitario, reproducción y producción, ajustados a las características y necesidades de cada animal.
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
@@ -322,7 +322,7 @@
       p(data-aos="fade-left") Independientemente del sistema utilizado, toda explotación bovina debe cumplir principios fundamentales relacionados con el bienestar animal, la sostenibilidad y las Buenas Prácticas Pecuarias:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width.mt-5
               .px-4.px-md-5.pb-md-3             
@@ -436,7 +436,7 @@
       p(data-aos="fade-left") El cumplimiento de las Buenas Prácticas Pecuarias durante esta etapa contribuye al adecuado crecimiento y al bienestar animal:      
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width.mt-5
               .px-4.px-md-5.pb-md-3             

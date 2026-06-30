@@ -322,14 +322,17 @@
   background-color: $color-acento-botones !important 
   border-color: $color-acento-botones !important
   color: #000 !important   
+  transition: transform 0.2s ease-in-out 
+
   &:hover
-    background-color: #565137 !important
-    border-color: #465637 !important
-    color: #ffffff !important
+    transform: scale(1.05)
+  
+
 .w-buttons
   min-width: 160px
   text-align: center
   justify-content: center 
+
 @media (max-width: $bp-max-md)
   .w-buttons
     width: 100%

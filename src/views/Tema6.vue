@@ -39,7 +39,7 @@
                 .col-lg-3 
                   figure(data-aos="zoom-in")
                     img(src="@/assets/curso/temas/t6/img3.png", alt="").img400.m-auto
-            p(data-aos="fade-left") El cumplimiento de estos objetivos contribuye a mejorar la calidad de vida de los bovinos y a optimizar el desempeño del sistema productivo.
+            p.mt-3(data-aos="fade-left") El cumplimiento de estos objetivos contribuye a mejorar la calidad de vida de los bovinos y a optimizar el desempeño del sistema productivo.
             Separador
             //- Inicio Tema6.1
             .row
@@ -48,7 +48,7 @@
             p(data-aos="fade-left") Para mantener condiciones adecuadas de bienestar, es necesario controlar los factores que afectan la salud, el comportamiento y la productividad de los bovinos.  La identificación y prevención de situaciones adversas permiten disminuir riesgos sanitarios y favorecer el confort animal: 
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .bg-full-width
               .px-4.px-md-5.pb-md-3
                 .carousel-bg
@@ -91,15 +91,15 @@
                             h4.card-title.text-center.mb-3.fw-bold Maltrato
                             p.text-start.text-center Genera lesiones, miedo y deterioro del bienestar.
             p(data-aos="fade-left") La prevención de estos factores constituye una responsabilidad permanente dentro de los sistemas de producción bovina.
-      Separador
-      //- Inicio Tema6.2
-      .row
-        #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 6.2 Principios fundamentales del bienestar animal
-      p El bienestar animal se fundamenta en las Cinco Libertades, reconocidas internacionalmente como base para el manejo responsable de los animales y como referencia para la implementación de las Buenas Prácticas Ganaderas.
+            Separador
+            //- Inicio Tema6.2
+            .row
+              #t_6_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 6.2 Principios fundamentales del bienestar animal
+            p El bienestar animal se fundamenta en las Cinco Libertades, reconocidas internacionalmente como base para el manejo responsable de los animales y como referencia para la implementación de las Buenas Prácticas Ganaderas.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3             
@@ -184,7 +184,7 @@
                 p.mb-0 En este sentido, el bienestar animal debe entenderse como un componente transversal del sistema de producción bovina. La integración de medidas relacionadas con nutrición, sanidad, infraestructura y manejo humanitario favorece la salud del hato y contribuye a la obtención de mejores resultados productivos.
               .col-lg-2.bg-color-7.d-flex.align-items-center.justify-content-center.p-4
                 figure
-                  img(src="@/assets/curso/temas/t6/img5.svg", data-aos="zoom-in", style="width: 100px").mx-auto
+                  img(src="@/assets/curso/temas/t6/img7.svg", data-aos="zoom-in", style="width: 100px").mx-auto
 
 </template>
 

@@ -8,13 +8,13 @@
         h1 Sistema de producción bovino
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .row.mb-5.justify-content-center.align-items-center
-                .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
-                  figure.mb-0.text-center
-                    img(src='@/assets/curso/temas/t2/img1.png' style="width: 500px").m-auto
-                .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
-                  p <b>El sistema de producción bovino</b> corresponde al conjunto organizado de recursos <b>animales, humanos, técnicos, económicos y ambientales</b> que interactúan para la producción eficiente y sostenible de carne, leche o sistemas de doble propósito. Su finalidad es optimizar la productividad, garantizar la rentabilidad de la explotación, promover el bienestar animal, asegurar la inocuidad de los alimentos y proteger los recursos naturales mediante la aplicación de las Buenas Prácticas Pecuarias (BPP) y las Buenas Prácticas de Alimentación Animal.
+              .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+                figure.mb-0.text-center
+                  img(src='@/assets/curso/temas/t2/img1.png' style="width: 500px").m-auto
+              .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
+                p <b>El sistema de producción bovino</b> corresponde al conjunto organizado de recursos <b>animales, humanos, técnicos, económicos y ambientales</b> que interactúan para la producción eficiente y sostenible de carne, leche o sistemas de doble propósito. Su finalidad es optimizar la productividad, garantizar la rentabilidad de la explotación, promover el bienestar animal, asegurar la inocuidad de los alimentos y proteger los recursos naturales mediante la aplicación de las Buenas Prácticas Pecuarias (BPP) y las Buenas Prácticas de Alimentación Animal.
             .bloque-texto-g.color-secundario.p-3.p-sm-4.p-md-5.mb-3(data-aos="fade-left")
               .bloque-texto-g__img(
                 :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/t2/img2.png')})` }")
@@ -78,7 +78,7 @@
       //- Fin Slideshow
       p(data-aos="fade-left") La integración eficiente de estos componentes favorece la sostenibilidad, la rentabilidad y la capacidad de respuesta del sistema frente a los desafíos productivos y sanitarios.
       p(data-aos="fade-right") Las Buenas Prácticas de Alimentación Animal tienen como propósito garantizar una nutrición adecuada, promover el bienestar animal, prevenir enfermedades asociadas a la alimentación y mejorar la eficiencia productiva del sistema bovino. Su implementación contribuye a optimizar el aprovechamiento de los nutrientes, mejorar el desempeño productivo y fortalecer la salud del hato.
-      .row.bg-fondo-1(data-aos="fade-left")
+      .row.bg-fondo-3(data-aos="fade-left")
         .col-12
           .p-5      
             //- Inicio Accordion
@@ -115,7 +115,7 @@
                   p La correcta ejecución de cada actividad contribuye al aprovechamiento eficiente de los nutrientes, favorece el desempeño productivo y reduce los riesgos asociados con una alimentación inadecuada:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3             

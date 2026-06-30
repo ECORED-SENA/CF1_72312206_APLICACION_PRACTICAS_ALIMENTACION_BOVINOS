@@ -8,13 +8,13 @@
         h1 Instalaciones y equipos para bovinos
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .row.mb-5.justify-content-center.align-items-center
-                .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
-                  figure.mb-0.text-center
-                    img(src='@/assets/curso/temas/t3/img1.png' style="width: 500px").m-auto
-                .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
-                  p Las instalaciones y equipos bovinos comprenden el conjunto de estructuras, áreas, herramientas y dispositivos utilizados para el manejo, la alimentación, la sanidad, la reproducción y la movilización de los animales dentro de una explotación pecuaria. Su adecuado diseño permite mejorar la productividad, facilitar las labores diarias, garantizar la bioseguridad y promover el bienestar animal.
+              .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+                figure.mb-0.text-center
+                  img(src='@/assets/curso/temas/t3/img1.png' style="width: 500px").m-auto
+              .col-12.col-lg-8.order-2.order-lg-1.bg-color-4.p-4(data-aos="fade-right")
+                p Las instalaciones y equipos bovinos comprenden el conjunto de estructuras, áreas, herramientas y dispositivos utilizados para el manejo, la alimentación, la sanidad, la reproducción y la movilización de los animales dentro de una explotación pecuaria. Su adecuado diseño permite mejorar la productividad, facilitar las labores diarias, garantizar la bioseguridad y promover el bienestar animal.
             p(data-aos="fade-left") De acuerdo con las Buenas Prácticas Ganaderas (BPG), las instalaciones deben ofrecer condiciones que permitan a los bovinos expresar comportamientos propios de la especie, acceder fácilmente al alimento y al agua, descansar en condiciones apropiadas y mantenerse protegidos frente a factores climáticos adversos. Además, deben facilitar los procesos de limpieza, desinfección y manejo sanitario.
             Separador
             //- Inicio Tema3.1
@@ -126,7 +126,7 @@
                 p El área de alimentación corresponde al espacio destinado al suministro de alimento y agua para los bovinos dentro del sistema productivo. Su adecuada organización y mantenimiento favorecen el acceso a los recursos alimenticios, preservan la calidad de los alimentos y contribuyen a la eficiencia alimenticia del hato. A continuación, se describen las condiciones que deben garantizarse en el área de alimentación y los beneficios derivados de su adecuada implementación:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3             

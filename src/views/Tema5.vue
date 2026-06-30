@@ -8,7 +8,7 @@
         h1 Seguridad y salud en el trabajo
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .row.mb-5.justify-content-center.align-items-center
                 .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
                   figure.mb-0.text-center
@@ -22,7 +22,7 @@
                 p.mb-0 Uno de los aspectos más importantes es el uso adecuado de elementos de protección personal, los cuales actúan como barrera frente a los diferentes factores de riesgo presentes en la explotación bovina. A continuación, se presentan los principales elementos de protección personal utilizados en la producción bovina y la función que cumplen durante el desarrollo de las actividades diarias, contribuyendo a la seguridad de los trabajadores y a la prevención de riesgos laborales.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .bg-full-width
               .px-4.px-md-5.pb-md-3
                 .carousel-bg
@@ -99,7 +99,7 @@
       p(data-aos="fade-left") La prevención de riesgos laborales busca disminuir la ocurrencia de accidentes y enfermedades ocupacionales mediante la identificación de peligros y la adopción de medidas de control apropiadas. Las actividades pecuarias pueden exponer a los trabajadores a diferentes situaciones de riesgo que deben gestionarse de manera preventiva:
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3             
@@ -163,59 +163,59 @@
                         p Facilitar una respuesta organizada ante situaciones imprevistas.
                   //- Fin Accordion
             p(data-aos="fade-left") La aplicación sistemática de estas medidas contribuye a fortalecer la cultura de prevención y a promover ambientes de trabajo más seguros dentro de la producción bovina.
-      Separador
-      //- Inicio Tema5.2
-      .row
-        #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 5.2 Manejo seguro de equipos e instalaciones
-      .row.mb-5.justify-content-center.align-items-center
-          .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
-            figure.mb-0.text-center
-              img(src='@/assets/curso/temas/t5/img5.png' style="width: 500px").m-auto
-          .col-12.col-lg-8.order-2.order-lg-1.bg-color-8.p-4(data-aos="fade-right")
-            p El manejo seguro de equipos e instalaciones es fundamental para proteger la integridad de los trabajadores y garantizar el adecuado desarrollo de las actividades productivas. Un equipo en buen estado reduce el riesgo de accidentes y mejora la eficiencia del trabajo dentro de la explotación bovina. Para garantizar un uso seguro, todos los equipos, herramientas e instalaciones deben inspeccionarse periódicamente, mantenerse en condiciones adecuadas y utilizarse únicamente para la función para la cual fueron diseñados.
-      //- Título nivel 3 - Imagen
-      .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
-        img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
-        h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Requisitos de seguridad para equipos e instalaciones
-      //- Título nivel 3 - Imagen
-      p(data-aos="fade-left") La siguiente tabla resume las principales condiciones que deben cumplir los equipos e instalaciones para favorecer un entorno laboral seguro.
-      //- Inicio Tabla
-      .row.justify-content-center.mt-5.mb-5
-        .col-lg-10.col-md-auto
-          .titulo-sexto.color-acento-contenido.mb-3
-            h5 Tabla 3.
-            span  Componentes fundamentales para el manejo integral en los sistemas de producción bovina
-          .tabla-a
-            table
-              thead
-                tr
-                  th(style="width: 20%") Requisito
-                  th(style="width: 50%") Explicación
-                  th(style="width: 30%") Importancia
-              tbody
-                tr
-                  td Buen estado estructural
-                  td Los equipos deben estar firmes, completos y sin daños que afecten su funcionamiento.
-                  td Evita accidentes y garantiza un manejo seguro.
-                tr
-                  td Ausencia de bordes cortantes
-                  td Las superficies no deben presentar puntas o elementos que puedan causar heridas.
-                  td Previene lesiones durante las labores diarias.
-                tr
-                  td Mantenimiento preventivo
-                  td Consiste en revisar, reparar y ajustar los equipos antes de que presenten fallas.
-                  td Reduce averías y tiempos de inactividad.
-                tr
-                  td Fácil limpieza
-                  td Los materiales deben permitir su adecuada conservación y mantenimiento.
-                  td Favorece condiciones apropiadas de operación.
-                tr
-                  td Uso adecuado según su función
-                  td Cada equipo debe emplearse únicamente para la actividad para la cual fue diseñado.
-                  td Evita daños, accidentes y mal funcionamiento.
-      //- Fin Tabla
-      p(data-aos="fade-left") El cumplimiento de estos requisitos fortalece la seguridad operativa y favorece la continuidad de las actividades productivas.
+            Separador
+            //- Inicio Tema5.2
+            .row
+              #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 5.2 Manejo seguro de equipos e instalaciones
+            .row.mb-5.justify-content-center.align-items-center
+                .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
+                  figure.mb-0.text-center
+                    img(src='@/assets/curso/temas/t5/img5.png' style="width: 500px").m-auto
+                .col-12.col-lg-8.order-2.order-lg-1.bg-color-8.p-4(data-aos="fade-right")
+                  p El manejo seguro de equipos e instalaciones es fundamental para proteger la integridad de los trabajadores y garantizar el adecuado desarrollo de las actividades productivas. Un equipo en buen estado reduce el riesgo de accidentes y mejora la eficiencia del trabajo dentro de la explotación bovina. Para garantizar un uso seguro, todos los equipos, herramientas e instalaciones deben inspeccionarse periódicamente, mantenerse en condiciones adecuadas y utilizarse únicamente para la función para la cual fueron diseñados.
+            //- Título nivel 3 - Imagen
+            .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
+              img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
+              h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Requisitos de seguridad para equipos e instalaciones
+            //- Título nivel 3 - Imagen
+            p(data-aos="fade-left") La siguiente tabla resume las principales condiciones que deben cumplir los equipos e instalaciones para favorecer un entorno laboral seguro.
+            //- Inicio Tabla
+            .row.justify-content-center.mt-5.mb-5
+              .col-lg-10.col-md-auto
+                .titulo-sexto.color-acento-contenido.mb-3
+                  h5 Tabla 3.
+                  span  Componentes fundamentales para el manejo integral en los sistemas de producción bovina
+                .tabla-a
+                  table
+                    thead
+                      tr
+                        th(style="width: 20%") Requisito
+                        th(style="width: 50%") Explicación
+                        th(style="width: 30%") Importancia
+                    tbody
+                      tr
+                        td Buen estado estructural
+                        td Los equipos deben estar firmes, completos y sin daños que afecten su funcionamiento.
+                        td Evita accidentes y garantiza un manejo seguro.
+                      tr
+                        td Ausencia de bordes cortantes
+                        td Las superficies no deben presentar puntas o elementos que puedan causar heridas.
+                        td Previene lesiones durante las labores diarias.
+                      tr
+                        td Mantenimiento preventivo
+                        td Consiste en revisar, reparar y ajustar los equipos antes de que presenten fallas.
+                        td Reduce averías y tiempos de inactividad.
+                      tr
+                        td Fácil limpieza
+                        td Los materiales deben permitir su adecuada conservación y mantenimiento.
+                        td Favorece condiciones apropiadas de operación.
+                      tr
+                        td Uso adecuado según su función
+                        td Cada equipo debe emplearse únicamente para la actividad para la cual fue diseñado.
+                        td Evita daños, accidentes y mal funcionamiento.
+            //- Fin Tabla
+            p(data-aos="fade-left") El cumplimiento de estos requisitos fortalece la seguridad operativa y favorece la continuidad de las actividades productivas.
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
@@ -234,19 +234,19 @@
                       ul.lista-ul.color-vinotinto-custom.mb-0
                         li.d-flex
                           .fas.fa-check-circle.me-3
-                          span Prevención de accidentes laborales: reduce riesgos durante las actividades pecuarias. 
+                          span <b>Prevención de accidentes laborales:</b> reduce riesgos durante las actividades pecuarias. 
                         li.d-flex
                           .fas.fa-check-circle.me-3
-                          span Disminución de fallas mecánicas: evita daños inesperados y tiempos de inactividad. 
+                          span <b>Disminución de fallas mecánicas:</b> evita daños inesperados y tiempos de inactividad. 
                         li.d-flex
                           .fas.fa-check-circle.me-3
-                          span Prolongación de la vida útil: favorece el aprovechamiento de equipos e instalaciones. 
+                          span <b>Prolongación de la vida útil:</b> favorece el aprovechamiento de equipos e instalaciones. 
                         li.d-flex
                           .fas.fa-check-circle.me-3
-                          span Reducción de costos: disminuye gastos asociados con reparaciones y reemplazos. 
+                          span <b>Reducción de costos:</b> disminuye gastos asociados con reparaciones y reemplazos. 
                         li.d-flex
                           .fas.fa-check-circle.me-3
-                          span Mayor rendimiento operativo: garantiza el adecuado funcionamiento de la explotación.
+                          span <b>Mayor rendimiento operativo:</b> garantiza el adecuado funcionamiento de la explotación.
                     .col-12.col-md-5.col-lg-5.position-relative
                       figure.mb-0.h-100.w-100
                         img(src="@/assets/curso/temas/t5/img6.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")                  

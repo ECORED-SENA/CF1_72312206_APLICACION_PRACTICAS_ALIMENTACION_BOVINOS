@@ -8,7 +8,7 @@
         h1 Seguridad y salud en el trabajo
       .row.bg-fondo-1(data-aos="fade-left")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .row.mb-5.justify-content-center.align-items-center
                 .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
                   figure.mb-0.text-center
@@ -49,12 +49,12 @@
                       figure.mb-0.h-100.w-100
                         img(src="@/assets/curso/temas/t4/img3.png" alt="" style="width: 100%; height: 100%; object-fit: cover; display: block;")
               p.mt-5(data-aos="fade-left") La implementación conjunta de estas acciones fortalece la inocuidad de la producción y favorece sistemas pecuarios más seguros.                        
-      Separador
-      //- Inicio Tema4.1
-      .row
-        #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 4.1 Técnicas de higiene en producción bovina
-      p(data-aos="fade-left") Las técnicas de higiene buscan eliminar suciedad, materia orgánica y microorganismos capaces de afectar la salud animal y la productividad del sistema. Su correcta aplicación constituye una herramienta preventiva fundamental dentro de las Buenas Prácticas Ganaderas.
+              Separador
+              //- Inicio Tema4.1
+              .row
+                #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                  h2 4.1 Técnicas de higiene en producción bovina
+              p(data-aos="fade-left") Las técnicas de higiene buscan eliminar suciedad, materia orgánica y microorganismos capaces de afectar la salud animal y la productividad del sistema. Su correcta aplicación constituye una herramienta preventiva fundamental dentro de las Buenas Prácticas Ganaderas.
       //- Título nivel 3 - Imagen
       .titulo-tercer-nivel.mb-5.mt-3(data-aos="fade-right")
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
@@ -73,7 +73,7 @@
       p(data-aos="fade-left") El proceso higiénico debe desarrollarse de forma secuencial para garantizar resultados efectivos: 
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3             
@@ -157,7 +157,7 @@
               p(data-aos="fade-left") Las plagas representan un importante riesgo sanitario porque pueden transmitir enfermedades y contaminar alimentos, agua e instalaciones.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             //- Carrusel
             .bg-full-width
               .px-4.px-md-5.pb-md-3
@@ -239,7 +239,7 @@
       p(data-aos="fade-left") Los corrales deben mantenerse libres de acumulaciones excesivas de materia orgánica para reducir riesgos sanitarios y conservar condiciones adecuadas para los animales.
       .row.bg-fondo-2(data-aos="fade-right")
         .col-12
-          .p-5
+          .pt-3.pb-5.px-5
             .bg-full-width
               .px-4.px-md-5.pb-md-3
                 .carousel-bg
@@ -282,11 +282,11 @@
                             h4.card-title.text-center.mb-3.fw-bold Material contaminado
                             p.text-start.text-center Limita la propagación de agentes patógenos.
             p(data-aos="fade-left") Un corral limpio contribuye a disminuir la incidencia de enfermedades, favorece el confort de los animales y mejora las condiciones sanitarias de la explotación. La aplicación sistemática de las técnicas de higiene constituye una estrategia preventiva indispensable para proteger la salud animal y humana, garantizar la inocuidad de los productos pecuarios y fortalecer la sostenibilidad de los sistemas de producción bovina.
-      Separador
-      //- Inicio Tema4.2
-      .row
-        #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 4.2 Procedimientos higiénicos esenciales
+            Separador
+            //- Inicio Tema4.2
+            .row
+              #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 4.2 Procedimientos higiénicos esenciales
       .row.mb-5.justify-content-center.align-items-center
         .col-12.col-sm-9.col-lg-4.order-1.order-lg-2.mb-4.mb-lg-0(data-aos="fade-left")
           figure.mb-0.text-center

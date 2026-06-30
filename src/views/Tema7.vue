@@ -124,12 +124,12 @@
                             h4.card-title.text-center.mb-3 Producción de energía, leche y carne
                             p.text-center Utilización de los nutrientes para mantenimiento y producción.
             //- Fin Carrusel            
-      Separador
-      //- Inicio Tema7.2
-      .row
-        #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-          h2 7.2 Funciones digestivas
-      p.mb-5(data-aos="fade-left") Los bovinos son animales rumiantes capaces de utilizar alimentos fibrosos que otras especies no pueden digerir eficientemente. Esta capacidad depende de la actividad de los microorganismos presentes en el rumen, responsables de degradar la fibra vegetal y transformar los alimentos en nutrientes aprovechables para el organismo.
+            Separador
+            //- Inicio Tema7.2
+            .row
+              #t_7_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
+                h2 7.2 Funciones digestivas
+            p.mb-3(data-aos="fade-left") Los bovinos son animales rumiantes capaces de utilizar alimentos fibrosos que otras especies no pueden digerir eficientemente. Esta capacidad depende de la actividad de los microorganismos presentes en el rumen, responsables de degradar la fibra vegetal y transformar los alimentos en nutrientes aprovechables para el organismo.
       .row.justify-content-center.mb-5(data-aos="fade-right")
         .col-12.col-lg-10
           .overflow-hidden.shadow
