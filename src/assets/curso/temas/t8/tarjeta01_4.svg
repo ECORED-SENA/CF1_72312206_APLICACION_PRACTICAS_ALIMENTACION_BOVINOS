@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="97.998" viewBox="0 0 98 97.998">
+  <g id="Group_1204928" data-name="Group 1204928" transform="translate(-19289.051 8745.25)">
+    <g id="Group_1204679" data-name="Group 1204679" transform="translate(18486.27 -11283.266)">
+      <g id="Group_1204237" data-name="Group 1204237" transform="translate(-1 566)">
+        <g id="Group_1204143" data-name="Group 1204143" transform="translate(-67.331 1694.852)">
+          <g id="Group_1188789" data-name="Group 1188789" transform="translate(871.113 277.164)">
+            <path id="Path_1243039" data-name="Path 1243039" d="M41.05,0h0a41.05,41.05,0,0,1,0,82.1h0a41.05,41.05,0,0,1,0-82.1Z" transform="translate(7.951 7.949)" fill="#ffc94a"/>
+            <rect id="Rectangle_400907" data-name="Rectangle 400907" width="88.438" height="88.437" rx="44.218" transform="translate(4.782 4.781)" fill="none"/>
+            <g id="Group_1098742" data-name="Group 1098742" transform="translate(0)">
+              <g id="Rectangle_400898" data-name="Rectangle 400898" transform="translate(0)" fill="none" stroke="#fff" stroke-width="2" opacity="0.859">
+                <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+              </g>
+              <g id="Rectangle_400907-2" data-name="Rectangle 400907" transform="translate(0)" fill="none" stroke="#0f1f33" stroke-linecap="round" stroke-width="2">
+                <rect width="98" height="97.999" rx="48.999" stroke="none"/>
+                <rect x="1" y="1" width="96" height="95.999" rx="47.999" fill="none"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g id="XMLID_1050_" transform="translate(19261.797 -8726.879)">
+      <path id="XMLID_1857_" d="M102.155,62.089A23.13,23.13,0,0,1,68.169,30.761L85.8,10,103.43,30.761A23.13,23.13,0,0,1,102.155,62.089Z" transform="translate(-8.814 -8.804)" fill="#91def5"/>
+      <path id="XMLID_1888_" d="M163.129,159.444a13.963,13.963,0,0,1-20.516-18.911L153.256,128,163.9,140.533A13.963,13.963,0,0,1,163.129,159.444Z" transform="translate(-76.27 -112.686)" fill="#d8ec84"/>
+      <g id="XMLID_711_" transform="translate(52.658 0)">
+        <path id="XMLID_714_" d="M95.528,21.184,77.9.422a1.2,1.2,0,0,0-1.824,0L58.443,21.184a24.334,24.334,0,0,0-2.171,28.509,1.2,1.2,0,1,0,2.037-1.256,21.871,21.871,0,0,1,1.959-25.7L76.986,3.045,93.7,22.732A21.966,21.966,0,0,1,78.182,58.859v-6.87A15.153,15.153,0,0,0,88.541,27.073L77.9,14.54a1.2,1.2,0,0,0-1.824,0L65.431,27.073A15.15,15.15,0,0,0,75.789,51.989v6.868a21.9,21.9,0,0,1-10.311-3.249,1.2,1.2,0,0,0-1.257,2.036A24.329,24.329,0,0,0,95.528,21.184ZM67.959,45.912a12.837,12.837,0,0,1-.7-17.291l9.731-11.459,9.731,11.459a12.837,12.837,0,0,1-.7,17.291h0a12.708,12.708,0,0,1-7.831,3.677V47.5l5.963-5.963a1.2,1.2,0,0,0-1.692-1.692l-4.271,4.271V37.555L81.9,33.834a1.2,1.2,0,0,0-1.692-1.692l-2.029,2.029V29.557a1.2,1.2,0,0,0-2.393,0v9.55l-3.653-3.653a1.2,1.2,0,0,0-1.692,1.692l5.345,5.345v7.1a12.708,12.708,0,0,1-7.831-3.677Z" transform="translate(-52.658 0)"/>
+        <path id="XMLID_1030_" d="M110.494,435.38a1.195,1.195,0,1,0,.846.349A1.2,1.2,0,0,0,110.494,435.38Z" transform="translate(-102.522 -383.291)"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -250,11 +250,10 @@
                 .tarjeta-atributo__header.p-3.text-center
                   h4.mb-0 Implementar programas sanitarios preventivos
                 .tarjeta-atributo__body.p-4.text-center
-                  p.mb-0 Conservar la salud del hato.
-                  
+                  p.mb-0 Conservar la salud del hato.                  
         .col-12.col-sm-8.col-md-6.col-lg-3.d-flex
           .banner-mantenimiento.w-100
-            img(src="@/assets/curso/temas/t5/img7.png" alt="")
+            img(src="@/assets/curso/temas/t7/img6.png" alt="")
       p(data-aos="fade-left") En conclusión, el sistema digestivo bovino es una estructura altamente especializada que permite transformar la fibra vegetal en nutrientes esenciales para la producción y el mantenimiento del organismo. Su correcto funcionamiento depende de una alimentación adecuada, agua de calidad y prácticas de manejo que favorezcan la estabilidad digestiva y la salud de los animales.
 </template>
 

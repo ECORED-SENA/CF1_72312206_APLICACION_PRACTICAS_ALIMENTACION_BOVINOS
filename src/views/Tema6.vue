@@ -191,7 +191,7 @@
 <script>
 import podcast1 from '@/assets/curso/temas/audio/podcast.mp3'
 export default {
-  name: 'Tema2',
+  name: 'Tema6',
   data: () => ({
     podcast1,
     mostrarIndicadorTarjetaAudio: true,
