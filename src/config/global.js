@@ -451,7 +451,7 @@ export default {
         },
         {
           nombre: 'Cristhian Giovanni Gordillo Segura ',
-          cargo: 'Intérprete Lenguaje de señas ',
+          cargo: 'Intérprete lenguaje de señas ',
           centro:
             'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
         },

@@ -132,24 +132,24 @@
                     tbody
                       tr
                         td Yodo
-                        td Antiséptico y bactericida.
-                        td Desinfección de pezones y heridas.
+                        td Antiséptico y bactericida
+                        td Desinfección de pezones y heridas
                       tr
                         td Amonios cuaternarios
-                        td Bactericida y fungicida.
-                        td Instalaciones y equipos.
+                        td Bactericida y fungicida
+                        td Instalaciones y equipos
                       tr
                         td Hipoclorito de sodio
-                        td Amplio espectro antimicrobiano.
-                        td Pisos, corrales y superficies.
+                        td Amplio espectro antimicrobiano
+                        td Pisos, corrales y superficies
                       tr
                         td Cal sanitaria
-                        td Reduce humedad y microorganismos.
-                        td Corrales y áreas de residuos.
+                        td Reduce humedad y microorganismos
+                        td Corrales y áreas de residuos
                       tr
                         td Clorhexidina
-                        td Antiséptico seguro.
-                        td Instrumental y procedimientos sanitarios.
+                        td Antiséptico seguro
+                        td Instrumental y procedimientos sanitarios
               //- Título nivel 4      
               .titulo-con-imagen.mb-4(data-aos="fade-right")
                 h3.titulo-nivel4 Control de plagas y vectores

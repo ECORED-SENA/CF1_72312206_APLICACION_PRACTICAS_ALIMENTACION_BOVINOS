@@ -31,7 +31,7 @@
               .col-lg-12
                 figure
                   .video
-                    iframe(width="560" height="315" src="https://www.youtube.com/embed/vdPrCjWJSHo?si=X4NxENRo3LLXAua_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+                    iframe(width="560" height="315" src="https://www.youtube.com/embed/0IraHuT2amg?si=v_FtgLDd12nYCc4R" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             Separador
             //- Inicio Tema2.2
             .row
@@ -43,7 +43,7 @@
         img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
         h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Clasificación según la aptitud productiva
       //- Título nivel 3 - Imagen
-      p(data-aos="fade-left") De acuerdo con su finalidad productiva, los bovinos se clasifican en lecheros, de carne y doble propósito. Cada grupo presenta características particulares que determinan sus requerimientos nutricionales y las prácticas de manejo más apropiadas:
+      p(data-aos="fade-left") De acuerdo con su finalidad productiva, los bovinos se clasifican en lecheros, de carne y de doble propósito. Cada grupo presenta características particulares que determinan sus requerimientos nutricionales y las prácticas de manejo más apropiadas:
       //- Inicio Tarjetas
       .row.justify-content-center.mt-5(data-aos="fade-left")
         .col-12.col-sm-9.col-md-6.col-lg-4.mb-4.d-flex.flex-column
@@ -303,7 +303,7 @@
               img.titulo-tercer-nivel__icon(src='@/assets/curso/temas/bg/titulos.svg')
               h3.titulo-tercer-nivel__text.mb-0.px-0.py-2 Clasificación según el sistema de producción
             //- Título nivel 3 - Imagen
-            p(data-aos="fade-left") Los bovinos y sus cruces pueden explotarse bajo sistemas intensivos, semi intensivos o extensivos, dependiendo del nivel de tecnificación, el manejo alimenticio, la infraestructura disponible y los recursos de la explotación:
+            p(data-aos="fade-left") Los bovinos y sus cruces pueden explotarse bajo sistemas intensivos, semiintensivos o extensivos, dependiendo del nivel de tecnificación, el manejo alimenticio, la infraestructura disponible y los recursos de la explotación:
             //- Inicio Accordion
             .bg--img_03.mt-5
               .row.justify-content-center
@@ -314,7 +314,7 @@
                   AcordionA.mb-5(tipo="a" clase-tarjeta="tarjeta acordeonA")
                     .row(titulo="Intensivo")
                         p Los animales permanecen en confinamiento o espacios reducidos, con alimentación controlada, suplementación constante y alta tecnificación. Busca maximizar la productividad mediante manejo nutricional, sanitario y reproductivo especializado.              
-                    .row(titulo="Semi intensivo")
+                    .row(titulo="Semiintensivo")
                         p Combina el pastoreo con suplementación alimenticia estratégica. Los animales permanecen parte del tiempo en potreros y reciben alimentos adicionales, como concentrados, ensilajes o suplementos minerales.
                     .row(titulo="Extensivo")
                         p Se desarrolla principalmente en grandes áreas de pastoreo natural, donde los bovinos obtienen la mayor parte de su alimentación directamente del forraje disponible. Requiere menor infraestructura, aunque depende de la disponibilidad climática y forrajera.                   
@@ -375,8 +375,8 @@
           figure
             img(src="@/assets/curso/temas/t1/img6.svg", data-aos="zoom-in", style="width: 100px").mx-auto
       .titulo-con-imagen.mb-4(data-aos="fade-right")
-        h3.titulo-nivel4 Buenas Prácticas Pecuarias en terneros neonatos
-      p(data-aos="fade-left") Las Buenas Prácticas Pecuarias orientadas a los terneros neonatos buscan disminuir el riesgo de enfermedades y mortalidad durante los primeros días de vida, favoreciendo un adecuado desarrollo.
+        h3.titulo-nivel4 Buenas prácticas pecuarias en terneros neonatos
+      p(data-aos="fade-left") Las Buenas prácticas pecuarias orientadas a los terneros neonatos buscan disminuir el riesgo de enfermedades y mortalidad durante los primeros días de vida, favoreciendo un adecuado desarrollo.
       //- Slid eshow
       .bg-full-width.bg-fondo-slider.mb-3
         .p-4.p-md-5
@@ -498,7 +498,7 @@
             img(src="@/assets/curso/temas/t1/img10.svg", data-aos="zoom-in", style="width: 100px").mx-auto
       //- Título nivel 4  
       .titulo-con-imagen.mb-4(data-aos="fade-right")
-        h3.titulo-nivel4 Buenas Prácticas Pecuarias durante el ordeño
+        h3.titulo-nivel4 Buenas prácticas pecuarias durante el ordeño
       //- Título nivel 4
       p(data-aos="fade-left") Estas prácticas contribuyen a garantizar la calidad higiénica de la leche, prevenir enfermedades y mantener el bienestar animal:
       //- Slid eshow
