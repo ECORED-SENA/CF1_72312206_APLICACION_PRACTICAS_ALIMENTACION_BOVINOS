@@ -7,7 +7,7 @@
           h3.mb-1 Aplicación de prácticas de alimentación en bovinos
           p.mb-0 
             | Síntesis:             
-            | Producción bovina: sistemas, alimentación y bienestar animal 
+            | producción bovina: sistemas, alimentación y bienestar animal 
       p.mt-5 A continuación, se presenta una síntesis de la temática estudiada en el componente formativo. 
       .row.justify-content-center
         .col-lg-10.mb-5.bgs.p-4.brad

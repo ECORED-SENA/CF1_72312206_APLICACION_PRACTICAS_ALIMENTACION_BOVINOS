@@ -22,7 +22,7 @@ export default {
       tema: 'Producción bovina: sistemas, alimentación y bienestar animal',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> Identificar los conceptos clave relacionados con la producción bovina, el sistema digestivo, la alimentación, la higiene, el bienestar animal y las prácticas necesarias para el manejo eficiente y sostenible de los bovinos.',
+        '<b>Objetivo:</b> identificar los conceptos clave relacionados con la producción bovina, el sistema digestivo, la alimentación, la higiene, el bienestar animal y las prácticas necesarias para el manejo eficiente y sostenible de los bovinos.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
